@@ -1,0 +1,12 @@
+{
+  "ingresos": {
+    "2025-06-17": {
+      "entradas": 0,
+      "salidas": 0,
+      "ocupados": 0,
+      "estado_estacionamiento":false,
+      "ganancias": 0.0,
+      "lugarA": false
+    }
+  }
+}
